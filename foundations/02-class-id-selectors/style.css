@@ -1,0 +1,19 @@
+.odd{
+    background-color: #c74e70;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;   
+}
+
+#one_ID{
+    color: rgb(24, 24, 207);
+    font-size: 36px;
+}
+
+#another_ID{
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.fs24px{
+    font-size: 24px;
+}
